@@ -1,0 +1,22 @@
+.box{
+  margin-bottom: 50px;
+}
+
+
+ul{
+  text-size-adjust: 100px;
+}
+
+.search{
+  width: 50%;
+  height: 50px;
+  border-radius: 40px;
+  
+}
+
+.but{
+  border-radius: 40px;
+  width: 100px;
+  height: 50px;
+  background-color: skyblue;
+}
